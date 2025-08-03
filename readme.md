@@ -47,7 +47,7 @@ This project consists of two primary scripts and several optional diagnostic too
 
 Main Scripts
 
-prepare_all_data.py
+prepare_all_data_for_optimizer.py
 
 Purpose: This is the starting point for any analysis. It is a master script that creates a clean, perfectly synchronized dataset for the optimizer.
 
