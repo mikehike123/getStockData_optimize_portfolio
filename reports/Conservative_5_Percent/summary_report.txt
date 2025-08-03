@@ -1,0 +1,60 @@
+
+==================================================
+SUMMARY REPORT FOR SCENARIO: Conservative_5_Percent
+==================================================
+
+Optimal Portfolio for a Target Return of 5.00%
+--------------------------------------------------
+  Allocation for AGG: 0.00%
+  Allocation for BA: 2.00%
+  Allocation for BOEING_BALANCED_70_30: 3.00%
+  Allocation for BOEING_Stable_2_84: 13.00%
+  Allocation for EFA: 0.00%
+  Allocation for GLD: 3.17%
+  Allocation for QQQ: 0.00%
+  Allocation for SPY: 13.00%
+  Allocation for XLU: 0.00%
+  Allocation for XLV: 0.00%
+  Allocation for Risk-Free: 65.83%
+--------------------------------------------------
+Expected Annual Return: 5.00%
+Lowest Possible Annual Volatility: 2.84%
+--------------------------------------------------
+
+Statistical Projections (Forward-Looking)
+--------------------------------------------------
+68% Confidence Interval (1 Std. Dev.):
+  The annual return is expected to be between 2.16% and 7.84%.
+
+95% Confidence Interval (2 Std. Dev.):
+  The annual return is expected to be between -0.68% and 10.68%.
+
+--- Historical Performance Analysis (Backward-Looking) ---
+
+Portfolio Annual Returns:
+     Annual Return
+Date              
+2005         1.38%
+2006         6.43%
+2007         4.82%
+2008        -4.84%
+2009         8.16%
+2010         6.57%
+2011         3.98%
+2012         5.63%
+2013         7.51%
+2014         4.90%
+2015         3.15%
+2016         5.20%
+2017         7.96%
+2018         2.49%
+2019         7.98%
+2020         5.74%
+2021         6.58%
+2022        -0.45%
+2023         7.89%
+2024         6.40%
+2025         4.36%
+
+Maximum Drawdown (since 2005): -8.15%
+--------------------------------------------------

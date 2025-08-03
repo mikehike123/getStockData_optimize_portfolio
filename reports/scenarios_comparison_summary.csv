@@ -1,0 +1,3 @@
+Scenario,Target Return,Volatility (Std Dev),Allocation: AGG,Allocation: BA,Allocation: BOEING_BALANCED_70_30,Allocation: BOEING_Stable_2_84,Allocation: EFA,Allocation: GLD,Allocation: QQQ,Allocation: SPY,Allocation: XLU,Allocation: XLV,Allocation: Risk-Free,Max Drawdown,2008 Return,95% Lower Bound,95% Upper Bound
+Conservative_5_Percent,5.00%,2.84%,0.00%,2.00%,3.00%,13.00%,0.00%,3.17%,0.00%,13.00%,0.00%,0.00%,65.83%,-8.15%,-4.84%,-0.68%,10.68%
+Moderate_7_Percent,7.00%,5.82%,0.00%,2.00%,3.00%,13.00%,0.00%,15.97%,12.91%,13.00%,0.00%,0.00%,40.11%,-14.95%,-11.60%,-4.65%,18.65%
